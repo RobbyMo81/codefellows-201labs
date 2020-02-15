@@ -2,16 +2,27 @@ body{
   margin: 0;
   background: 0;
   padding: 0;
- 
+  height: 2000px; 
 }
 main{
+  display: block;
   margin: 0 auto;
   width: 1000px;
-  height: 800px;
-  
+  height: 1500px;
 }
 
 main img{
+  border: 0;
+  padding: 0;
   margin: 0 auto;
   width: 1000px;
+}
+
+section{
+  clear: both;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+  width: 1000px;
+  height: 400px;
 }
